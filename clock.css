@@ -141,4 +141,7 @@ body {
   .clock__hand--m .clock__number {
     color: hsl(var(--hue), 10%, 80%);
   }
+  .clock {
+    background-color: black;
+  }
 }
